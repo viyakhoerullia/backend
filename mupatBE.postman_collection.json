@@ -1,0 +1,110 @@
+{
+	"info": {
+		"_postman_id": "3b5bbccf-1faa-4f79-838e-dc1e7704088d",
+		"name": "mupatBE",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37179436"
+	},
+	"item": [
+		{
+			"name": "halaman_admin",
+			"item": []
+		},
+		{
+			"name": "detail_transaksi",
+			"item": [
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "halaman_daftar",
+			"item": []
+		},
+		{
+			"name": "halaman_masuk",
+			"item": []
+		},
+		{
+			"name": "kategori",
+			"item": []
+		},
+		{
+			"name": "peserta",
+			"item": [
+				{
+					"name": "peserta",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "produk",
+			"item": [
+				{
+					"name": "exotic_groza",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "transaksi_dijemput",
+			"item": []
+		},
+		{
+			"name": "transaksi_dijemput",
+			"item": []
+		},
+		{
+			"name": "transaksi",
+			"item": [
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "produk",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
